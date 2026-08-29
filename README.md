@@ -7,9 +7,9 @@ Mi objetivo con estos desafíos es ir más allá de la sintaxis: busco afianzar 
 
 El código está organizado de manera semántica según el concepto o paradigma aplicado:
 
-* **`01_Bases_y_Control_Flujo/`**: Variables (`val` / `var`), inferencia de tipos, manejo seguro de nulos y estructuras de control avanzadas (`if` y `when` como expresiones).
+* **`01_Basicos/`**: Variables (`val` / `var`), inferencia de tipos, manejo seguro de nulos y estructuras de control (`if` y `when` como expresiones).
 * **`02_Funciones/`**: Declaración de funciones, parámetros con valores por defecto y funciones de expresión única.
-* **`03_POO_Basica/`**: Clases, constructores primarios, encapsulamiento y el uso de *Data Classes* para el modelado eficiente de datos.
+* **`03_POO_Basica/`**: Clases, constructores primarios, encapsulamiento y el uso de Data Classes para el modelado eficiente de datos.
 * **`04_Colecciones/`**: Estructuras de datos, listas y operaciones funcionales (lambdas) para la manipulación de información.
 * *(Módulos en expansión)*
 
